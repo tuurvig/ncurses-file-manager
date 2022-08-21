@@ -1,0 +1,15 @@
+<map id="Controller::Create" name="Controller::Create">
+<area shape="rect" id="node1" title="Creates node in a directory." alt="" coords="5,132,143,159"/>
+<area shape="rect" id="node2" href="$classDirectory.html#a35a3bb6b652a746891d5d24acf176827" title="Creates new directory." alt="" coords="195,5,345,32"/>
+<area shape="rect" id="node3" href="$classDirectory.html#a7e179b9ff592470afa9625cd7476cb5d" title="Creates new file." alt="" coords="193,56,347,83"/>
+<area shape="rect" id="node4" href="$classDirectory.html#a24f138fafe93eadcd8b986c98b76544f" title="Creates new symbolic link." alt="" coords="191,107,349,133"/>
+<area shape="rect" id="node5" href="$classTextBox.html#a34d3f62b8c1110bd5334dfe8e8843085" title=" " alt="" coords="201,157,339,184"/>
+<area shape="rect" id="node6" href="$classInfo.html#ad9248efdc533d5f895ed768f00c278ca" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="225,208,315,235"/>
+<area shape="rect" id="node11" href="$classTextBox.html#a66732ea05846954af4b1ab3b36a865c2" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="212,259,328,285"/>
+<area shape="rect" id="node7" href="$classInfo.html#aba46dc0adf4dac1adaef7cb24cbb4034" title="Overriden inputting method." alt="" coords="415,157,503,184"/>
+<area shape="rect" id="node8" href="$classDialog.html#a015696d68dff85dcde3d6297c89b4e4c" title="Implicit method Refresh that gets terminals width and height and then calls the latter function." alt="" coords="397,208,520,235"/>
+<area shape="rect" id="node9" href="$classDialog.html#ad587c79b0126a45d14a86a5b054ec9bd" title="Overriden showing method that shows string in a dialog window." alt="" coords="405,259,512,285"/>
+<area shape="rect" id="node10" href="$classDialog.html#af31e2590c42d479701a4b1e0d4860159" title="Virtual method that shows dialogs functionaly." alt="" coords="568,259,727,285"/>
+<area shape="rect" id="node12" href="$classTextBox.html#a620f9a9a2ec26d7680af57ba07abccf7" title="Overriden inputting method." alt="" coords="401,309,516,336"/>
+<area shape="rect" id="node13" href="$classTextBox.html#ad57454bef0cba58fcda7e0d9ef18fa21" title="Appends letter to input string." alt="" coords="582,309,713,336"/>
+</map>

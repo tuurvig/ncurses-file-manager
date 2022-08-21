@@ -1,0 +1,4 @@
+<map id="Menu" name="Menu">
+<area shape="rect" id="node1" title="Shows window with menubar options." alt="" coords="5,263,120,472"/>
+<area shape="rect" id="node2" href="$classWindow.html" title="Virtual class for types of windows used in user interface." alt="" coords="7,5,118,215"/>
+</map>

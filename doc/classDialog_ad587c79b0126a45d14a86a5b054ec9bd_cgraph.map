@@ -1,0 +1,4 @@
+<map id="Dialog::Show" name="Dialog::Show">
+<area shape="rect" id="node1" title="Overriden showing method that shows string in a dialog window." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$classDialog.html#af31e2590c42d479701a4b1e0d4860159" title="Virtual method that shows dialogs functionaly." alt="" coords="160,5,319,32"/>
+</map>

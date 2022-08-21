@@ -1,0 +1,5 @@
+<map id="Menu::Refresh" name="Menu::Refresh">
+<area shape="rect" id="node1" title="Overriden refreshing method that updates window&#39;s height and width." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node2" href="$classController.html#a71f305338080e450f5827da2128b2e01" title=" " alt="" coords="169,5,331,32"/>
+<area shape="rect" id="node3" href="$classHierarchyNode.html#a9fa43c48515884b4d30ef65e961bf62f" title="Getter to a nodes name." alt="" coords="379,5,568,32"/>
+</map>

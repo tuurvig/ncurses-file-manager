@@ -1,0 +1,8 @@
+<map id="Directory::NodeCount" name="Directory::NodeCount">
+<area shape="rect" id="node1" title=" " alt="" coords="707,31,868,57"/>
+<area shape="rect" id="node2" href="$classController.html#a79082e9a3f0a935cfe28ae1c12679a9a" title="Virtual refreshing method that updates window&#39;s height and width." alt="" coords="515,5,659,32"/>
+<area shape="rect" id="node6" href="$classController.html#ad36a9c0d940c0ec87531abfd4f4a77ea" title="Shows content of a current directory." alt="" coords="318,56,447,83"/>
+<area shape="rect" id="node3" href="$classUserInterface.html#ae1033dcf865f2b13a4364cf099606561" title="Refreshes ncurses by loading new height and width." alt="" coords="299,5,467,32"/>
+<area shape="rect" id="node4" href="$classUserInterface.html#a63387b09d5225cfeb5c76582a6131b6c" title="Runs user interface functionality." alt="" coords="108,31,251,57"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,31,60,57"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Directory::ToggleHidden" name="Directory::ToggleHidden">
+<area shape="rect" id="node1" title="Toggles Directory functionality of showing hidden folders." alt="" coords="180,5,357,32"/>
+<area shape="rect" id="node2" href="$classController.html#a40eb68e7e9d5eccb89cf1a6336b6c400" title="Overriden inputting method." alt="" coords="5,5,132,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Directory::Erase" name="Directory::Erase">
+<area shape="rect" id="node1" title="Erases directory." alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node2" href="$classDirectory.html#ab36586cdc9c98c50231df286e8943dd1" title="Loads the directory contents." alt="" coords="179,5,357,32"/>
+<area shape="rect" id="node3" href="$classDirectory.html#a6d60e37b3035d24a431166468385e0a4" title="Appends node into its rightful place in _contents, by using lower_bound and compare function." alt="" coords="405,5,544,32"/>
+</map>

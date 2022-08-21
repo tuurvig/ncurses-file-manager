@@ -1,0 +1,17 @@
+<map id="Directory::Path" name="Directory::Path">
+<area shape="rect" id="node1" title="Get path of a directory." alt="" coords="733,233,851,260"/>
+<area shape="rect" id="node2" href="$classController.html#a19e5e9f059ba4f66b468598f781fc352" title="Iterates into a currently highlighted directory." alt="" coords="535,5,685,32"/>
+<area shape="rect" id="node3" href="$classController.html#a40eb68e7e9d5eccb89cf1a6336b6c400" title="Overriden inputting method." alt="" coords="349,31,476,57"/>
+<area shape="rect" id="node4" href="$classFile.html#a3b2e622d5fa2f26c490cbecd1772d9c3" title="Copies file to an another directory." alt="" coords="567,107,653,133"/>
+<area shape="rect" id="node5" href="$classDirectory.html#a3bd08ad4e94e02d9119899f7b8adf4c0" title="Constructor of Directory class." alt="" coords="535,157,685,184"/>
+<area shape="rect" id="node6" href="$classFile.html#a66e0018bd895712c31e84d94b3341b77" title="Erases file." alt="" coords="565,208,655,235"/>
+<area shape="rect" id="node7" href="$classSymLink.html#a13db765f61c9dd35fb5242b9239c6550" title="Erases symbolic link." alt="" coords="549,259,671,285"/>
+<area shape="rect" id="node9" href="$classFile.html#a8cc723fe1bfb0777e75e8e45c6b78377" title="Moves file to an another directory by using copy and erase." alt="" coords="565,309,655,336"/>
+<area shape="rect" id="node10" href="$classFile.html#ad67082b274b7f61da096244f91ed37a3" title="Renames file." alt="" coords="557,360,663,387"/>
+<area shape="rect" id="node11" href="$classSymLink.html#a4d8875c0a203278ebff049cd7e183c34" title="Renames symbolic link." alt="" coords="540,411,680,437"/>
+<area shape="rect" id="node12" href="$classDirectory.html#a1b2eb4512e383656fdbe078d3a8dddf4" title="Renames directory." alt="" coords="539,461,681,488"/>
+<area shape="rect" id="node8" href="$classSymLink.html#a7e52908b9b1ede2590e35731e76123af" title="Moves symbolic link to an another directory by using copy and erase." alt="" coords="351,259,474,285"/>
+<area shape="rect" id="node13" href="$classController.html#a74c7c671f984b2adaabc7fcb889c39bd" title="Renames node." alt="" coords="339,461,487,488"/>
+<area shape="rect" id="node14" href="$classMenu.html#a329a36311718923920a72634d3330a7c" title="Manipulates with methods in Controller class." alt="" coords="152,461,291,488"/>
+<area shape="rect" id="node15" href="$classMenu.html#a638ef41d9d5d42ea37ee1bdf86c2d50f" title="Overriden inputting method." alt="" coords="5,461,104,488"/>
+</map>

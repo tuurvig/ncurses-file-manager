@@ -1,0 +1,10 @@
+<map id="Controller::Advance" name="Controller::Advance">
+<area shape="rect" id="node1" title="Iterates into a currently highlighted directory." alt="" coords="5,81,156,108"/>
+<area shape="rect" id="node2" href="$classDirectory.html#a95948959f5bcca3448ee68900e5811a3" title="Get path of a directory." alt="" coords="221,5,338,32"/>
+<area shape="rect" id="node3" href="$classDirNavigation.html#ae251ec5346e003f64109fae8c4a9d884" title="Takes a step deeper in directory hierarchy by pushing back another Directory pointer to the _nav list..." alt="" coords="204,56,355,83"/>
+<area shape="rect" id="node4" href="$classController.html#a771a3b02dcb80006eec8c15cfe469347" title="Method that resets screen when big update happens, so it won&#39;t leave residue after itself." alt="" coords="403,107,573,133"/>
+<area shape="rect" id="node5" href="$classController.html#a2c81342b3c17379a10a0ae7bd8d36e53" title="Iterates back into a parent directory." alt="" coords="208,157,351,184"/>
+<area shape="rect" id="node6" href="$classDirNavigation.html#a1408df13b3388ef1dd347704cc03e74c" title="Moves back in directory hierarchy." alt="" coords="416,157,560,184"/>
+<area shape="rect" id="node7" href="$classDirectory.html#ab36586cdc9c98c50231df286e8943dd1" title="Loads the directory contents." alt="" coords="621,157,800,184"/>
+<area shape="rect" id="node8" href="$classDirectory.html#a6d60e37b3035d24a431166468385e0a4" title="Appends node into its rightful place in _contents, by using lower_bound and compare function." alt="" coords="848,157,987,184"/>
+</map>

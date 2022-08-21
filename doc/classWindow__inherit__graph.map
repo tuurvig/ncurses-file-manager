@@ -1,0 +1,9 @@
+<map id="Window" name="Window">
+<area shape="rect" id="node1" title="Virtual class for types of windows used in user interface." alt="" coords="164,5,275,215"/>
+<area shape="rect" id="node2" href="$classController.html" title="Controls DirNavigation, shows contents of directories and manipulates with nodes in directory." alt="" coords="9,263,128,663"/>
+<area shape="rect" id="node3" href="$classDialog.html" title="Virtual class Dialog is a parent class types of Dialog windows." alt="" coords="153,373,286,553"/>
+<area shape="rect" id="node7" href="$classMenu.html" title="Shows window with menubar options." alt="" coords="310,358,425,567"/>
+<area shape="rect" id="node4" href="$classInfo.html" title="Info dialog only informs." alt="" coords="5,747,132,883"/>
+<area shape="rect" id="node5" href="$classTextBox.html" title="Dialog for entering user defined strings." alt="" coords="156,711,283,920"/>
+<area shape="rect" id="node6" href="$classYesNo.html" title="YesNo dialog, that has two buttons." alt="" coords="307,740,433,891"/>
+</map>

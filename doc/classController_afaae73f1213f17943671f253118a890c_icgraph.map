@@ -1,0 +1,4 @@
+<map id="Controller::MoveUp" name="Controller::MoveUp">
+<area shape="rect" id="node1" title="Changes currently highlighted node in upward direction until it hits the first one." alt="" coords="180,5,328,32"/>
+<area shape="rect" id="node2" href="$classController.html#a40eb68e7e9d5eccb89cf1a6336b6c400" title="Overriden inputting method." alt="" coords="5,5,132,32"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="UserInterface::Run" name="UserInterface::Run">
+<area shape="rect" id="node1" title="Runs user interface functionality." alt="" coords="5,107,148,133"/>
+<area shape="rect" id="node2" href="$classWindow.html#ac7159835387fb8acc09b49f273096727" title="Virtual inputting method." alt="" coords="236,5,351,32"/>
+<area shape="rect" id="node3" href="$classUserInterface.html#ae1033dcf865f2b13a4364cf099606561" title="Refreshes ncurses by loading new height and width." alt="" coords="209,56,377,83"/>
+<area shape="rect" id="node9" href="$classMenu.html#a4021136ef017c8e57a9ac0c9fba86a38" title="Overriden showing method that shows menubar options." alt="" coords="243,107,344,133"/>
+<area shape="rect" id="node10" href="$classController.html#ad36a9c0d940c0ec87531abfd4f4a77ea" title="Shows content of a current directory." alt="" coords="229,157,358,184"/>
+<area shape="rect" id="node13" href="$classUserInterface.html#ac507ef731bcd4eb9e002c0a52a599d41" title="Toggles between left and right panel." alt="" coords="196,208,391,235"/>
+<area shape="rect" id="node4" href="$classMenu.html#a881cbd63cf5faf3107945b4c48d1c06d" title="Overriden refreshing method that updates window&#39;s height and width." alt="" coords="457,5,573,32"/>
+<area shape="rect" id="node7" href="$classController.html#a79082e9a3f0a935cfe28ae1c12679a9a" title="Virtual refreshing method that updates window&#39;s height and width." alt="" coords="443,56,587,83"/>
+<area shape="rect" id="node5" href="$classController.html#a71f305338080e450f5827da2128b2e01" title=" " alt="" coords="639,5,800,32"/>
+<area shape="rect" id="node6" href="$classHierarchyNode.html#a9fa43c48515884b4d30ef65e961bf62f" title="Getter to a nodes name." alt="" coords="848,5,1037,32"/>
+<area shape="rect" id="node8" href="$classDirectory.html#aab2d2c1b6602e6620af1d7f7bd32a6f5" title=" " alt="" coords="639,81,800,108"/>
+<area shape="rect" id="node11" href="$classDirectory.html#a9e87ebd716cd233cb0b23bde8da21088" title="Shows how directory name will be presented in user interface." alt="" coords="453,157,577,184"/>
+<area shape="rect" id="node12" href="$classDirectory.html#a50f0eb7c9f6f824312d7f8614fbb2864" title="Shows how directory path will be presented in user interface." alt="" coords="439,208,591,235"/>
+</map>

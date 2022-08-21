@@ -1,0 +1,7 @@
+<map id="Info::Open" name="Info::Open">
+<area shape="rect" id="node1" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="5,56,95,83"/>
+<area shape="rect" id="node2" href="$classInfo.html#aba46dc0adf4dac1adaef7cb24cbb4034" title="Overriden inputting method." alt="" coords="160,5,248,32"/>
+<area shape="rect" id="node3" href="$classDialog.html#a015696d68dff85dcde3d6297c89b4e4c" title="Implicit method Refresh that gets terminals width and height and then calls the latter function." alt="" coords="143,56,265,83"/>
+<area shape="rect" id="node4" href="$classDialog.html#ad587c79b0126a45d14a86a5b054ec9bd" title="Overriden showing method that shows string in a dialog window." alt="" coords="151,107,257,133"/>
+<area shape="rect" id="node5" href="$classDialog.html#af31e2590c42d479701a4b1e0d4860159" title="Virtual method that shows dialogs functionaly." alt="" coords="313,107,472,133"/>
+</map>

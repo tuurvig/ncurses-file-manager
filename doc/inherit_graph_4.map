@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classWindow.html" title="Virtual class for types of windows used in user interface." alt="" coords="5,56,80,83"/>
+<area shape="rect" id="node2" href="$classController.html" title="Controls DirNavigation, shows contents of directories and manipulates with nodes in directory." alt="" coords="128,5,215,32"/>
+<area shape="rect" id="node3" href="$classDialog.html" title="Virtual class Dialog is a parent class types of Dialog windows." alt="" coords="139,56,203,83"/>
+<area shape="rect" id="node7" href="$classMenu.html" title="Shows window with menubar options." alt="" coords="142,107,201,133"/>
+<area shape="rect" id="node4" href="$classInfo.html" title="Info dialog only informs." alt="" coords="277,5,323,32"/>
+<area shape="rect" id="node5" href="$classTextBox.html" title="Dialog for entering user defined strings." alt="" coords="263,56,337,83"/>
+<area shape="rect" id="node6" href="$classYesNo.html" title="YesNo dialog, that has two buttons." alt="" coords="269,107,331,133"/>
+</map>

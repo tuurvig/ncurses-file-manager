@@ -1,0 +1,7 @@
+<map id="YesNo::Open" name="YesNo::Open">
+<area shape="rect" id="node1" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="5,56,108,83"/>
+<area shape="rect" id="node2" href="$classYesNo.html#a07ba5187c48d4b2ef14b68fd49df6ead" title="Overriden inputting method." alt="" coords="166,5,269,32"/>
+<area shape="rect" id="node3" href="$classDialog.html#a015696d68dff85dcde3d6297c89b4e4c" title="Implicit method Refresh that gets terminals width and height and then calls the latter function." alt="" coords="156,56,279,83"/>
+<area shape="rect" id="node4" href="$classDialog.html#ad587c79b0126a45d14a86a5b054ec9bd" title="Overriden showing method that shows string in a dialog window." alt="" coords="164,107,271,133"/>
+<area shape="rect" id="node5" href="$classDialog.html#af31e2590c42d479701a4b1e0d4860159" title="Virtual method that shows dialogs functionaly." alt="" coords="327,107,485,133"/>
+</map>

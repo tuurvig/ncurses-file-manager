@@ -1,0 +1,6 @@
+<map id="File" name="File">
+<area shape="rect" id="node1" title="Class associates real file in hierarchy." alt="" coords="20,343,121,509"/>
+<area shape="rect" id="node2" href="$classHierarchyNode.html" title="Abstract class to File, Directory and Symlink." alt="" coords="5,5,160,229"/>
+<area shape="rect" id="node3" href="$classDirectory.html" title="Class associates real directory in hierarchy." alt="" coords="146,292,265,560"/>
+<area shape="rect" id="node4" href="$structDirectory_1_1____compareNames.html" title="Method that compares names of nodes." alt="" coords="185,79,391,156"/>
+</map>

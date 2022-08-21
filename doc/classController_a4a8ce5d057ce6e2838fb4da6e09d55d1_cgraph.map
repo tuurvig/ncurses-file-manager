@@ -1,0 +1,16 @@
+<map id="Controller::Erase" name="Controller::Erase">
+<area shape="rect" id="node1" title="Erases node from a directory." alt="" coords="5,157,136,184"/>
+<area shape="rect" id="node2" href="$classDirectory.html#a11596fa5d7f432d3797e1f5b720568b9" title="Erases directory." alt="" coords="210,31,335,57"/>
+<area shape="rect" id="node5" href="$classInfo.html#ad9248efdc533d5f895ed768f00c278ca" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="228,107,317,133"/>
+<area shape="rect" id="node10" href="$classYesNo.html#ab939b2f89282e199a1547f0c0504df19" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="221,157,324,184"/>
+<area shape="rect" id="node12" href="$classDirectory.html#a79e517722bc59d511b9ab67d73af11a8" title="Removes node from _contents." alt="" coords="184,208,361,235"/>
+<area shape="rect" id="node14" href="$classController.html#a771a3b02dcb80006eec8c15cfe469347" title="Method that resets screen when big update happens, so it won&#39;t leave residue after itself." alt="" coords="187,259,358,285"/>
+<area shape="rect" id="node3" href="$classDirectory.html#ab36586cdc9c98c50231df286e8943dd1" title="Loads the directory contents." alt="" coords="409,5,588,32"/>
+<area shape="rect" id="node4" href="$classDirectory.html#a6d60e37b3035d24a431166468385e0a4" title="Appends node into its rightful place in _contents, by using lower_bound and compare function." alt="" coords="646,5,785,32"/>
+<area shape="rect" id="node6" href="$classInfo.html#aba46dc0adf4dac1adaef7cb24cbb4034" title="Overriden inputting method." alt="" coords="455,56,543,83"/>
+<area shape="rect" id="node7" href="$classDialog.html#a015696d68dff85dcde3d6297c89b4e4c" title="Implicit method Refresh that gets terminals width and height and then calls the latter function." alt="" coords="437,107,560,133"/>
+<area shape="rect" id="node8" href="$classDialog.html#ad587c79b0126a45d14a86a5b054ec9bd" title="Overriden showing method that shows string in a dialog window." alt="" coords="445,157,552,184"/>
+<area shape="rect" id="node9" href="$classDialog.html#af31e2590c42d479701a4b1e0d4860159" title="Virtual method that shows dialogs functionaly." alt="" coords="636,157,795,184"/>
+<area shape="rect" id="node11" href="$classYesNo.html#a07ba5187c48d4b2ef14b68fd49df6ead" title="Overriden inputting method." alt="" coords="447,208,550,235"/>
+<area shape="rect" id="node13" href="$classDirectory.html#a9c13d497ed8ad4e4d646d0b25f8272bc" title=" " alt="" coords="436,259,561,285"/>
+</map>

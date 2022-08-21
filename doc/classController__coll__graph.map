@@ -1,0 +1,5 @@
+<map id="Controller" name="Controller">
+<area shape="rect" id="node1" title="Controls DirNavigation, shows contents of directories and manipulates with nodes in directory." alt="" coords="77,277,196,663"/>
+<area shape="rect" id="node2" href="$classWindow.html" title="Virtual class for types of windows used in user interface." alt="" coords="5,5,116,215"/>
+<area shape="rect" id="node3" href="$classDirNavigation.html" title="Navigates through directories and memorizes the path it took." alt="" coords="140,5,288,215"/>
+</map>

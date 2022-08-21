@@ -1,0 +1,10 @@
+<map id="TextBox::Input" name="TextBox::Input">
+<area shape="rect" id="node1" title="Overriden inputting method." alt="" coords="699,81,813,108"/>
+<area shape="rect" id="node2" href="$classTextBox.html#a66732ea05846954af4b1ab3b36a865c2" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="535,81,651,108"/>
+<area shape="rect" id="node3" href="$classController.html#a7f49834fe6d004b07b3f58d6b791b9f0" title="Copies node." alt="" coords="349,5,476,32"/>
+<area shape="rect" id="node6" href="$classController.html#a924925fd4ca98769d4f9d69d32c40ad8" title="Creates node in a directory." alt="" coords="344,56,481,83"/>
+<area shape="rect" id="node7" href="$classController.html#a2c5bbde035ae30ac9b43801b384e9ece" title="Moves node." alt="" coords="347,107,478,133"/>
+<area shape="rect" id="node8" href="$classController.html#a74c7c671f984b2adaabc7fcb889c39bd" title="Renames node." alt="" coords="339,157,487,184"/>
+<area shape="rect" id="node4" href="$classMenu.html#a329a36311718923920a72634d3330a7c" title="Manipulates with methods in Controller class." alt="" coords="152,81,291,108"/>
+<area shape="rect" id="node5" href="$classMenu.html#a638ef41d9d5d42ea37ee1bdf86c2d50f" title="Overriden inputting method." alt="" coords="5,81,104,108"/>
+</map>

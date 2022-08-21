@@ -1,0 +1,13 @@
+<map id="Dialog::Show" name="Dialog::Show">
+<area shape="rect" id="node1" title="Overriden showing method that shows string in a dialog window." alt="" coords="699,107,805,133"/>
+<area shape="rect" id="node2" href="$classInfo.html#ad9248efdc533d5f895ed768f00c278ca" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="548,107,637,133"/>
+<area shape="rect" id="node10" href="$classYesNo.html#ab939b2f89282e199a1547f0c0504df19" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="541,56,644,83"/>
+<area shape="rect" id="node11" href="$classTextBox.html#a66732ea05846954af4b1ab3b36a865c2" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="535,157,651,184"/>
+<area shape="rect" id="node3" href="$classController.html#a7f49834fe6d004b07b3f58d6b791b9f0" title="Copies node." alt="" coords="349,107,476,133"/>
+<area shape="rect" id="node6" href="$classController.html#a924925fd4ca98769d4f9d69d32c40ad8" title="Creates node in a directory." alt="" coords="344,208,481,235"/>
+<area shape="rect" id="node7" href="$classController.html#a4a8ce5d057ce6e2838fb4da6e09d55d1" title="Erases node from a directory." alt="" coords="347,5,478,32"/>
+<area shape="rect" id="node8" href="$classController.html#a2c5bbde035ae30ac9b43801b384e9ece" title="Moves node." alt="" coords="347,56,478,83"/>
+<area shape="rect" id="node9" href="$classController.html#a74c7c671f984b2adaabc7fcb889c39bd" title="Renames node." alt="" coords="339,157,487,184"/>
+<area shape="rect" id="node4" href="$classMenu.html#a329a36311718923920a72634d3330a7c" title="Manipulates with methods in Controller class." alt="" coords="152,107,291,133"/>
+<area shape="rect" id="node5" href="$classMenu.html#a638ef41d9d5d42ea37ee1bdf86c2d50f" title="Overriden inputting method." alt="" coords="5,107,104,133"/>
+</map>

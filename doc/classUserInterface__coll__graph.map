@@ -1,0 +1,10 @@
+<map id="UserInterface" name="UserInterface">
+<area shape="rect" id="node1" title="Uses ncurses to allow user to use this programs functionaly through terminal." alt="" coords="202,1093,349,1243"/>
+<area shape="rect" id="node2" href="$classDirectory.html" title="Class associates real directory in hierarchy." alt="" coords="63,725,181,993"/>
+<area shape="rect" id="node3" href="$classHierarchyNode.html" title="Abstract class to File, Directory and Symlink." alt="" coords="15,1056,170,1280"/>
+<area shape="rect" id="node4" href="$structDirectory_1_1____compareNames.html" title="Method that compares names of nodes." alt="" coords="5,431,212,509"/>
+<area shape="rect" id="node5" href="$classController.html" title="Controls DirNavigation, shows contents of directories and manipulates with nodes in directory." alt="" coords="240,277,359,663"/>
+<area shape="rect" id="node8" href="$classMenu.html" title="Shows window with menubar options." alt="" coords="305,762,419,957"/>
+<area shape="rect" id="node6" href="$classWindow.html" title="Virtual class for types of windows used in user interface." alt="" coords="357,5,468,215"/>
+<area shape="rect" id="node7" href="$classDirNavigation.html" title="Navigates through directories and memorizes the path it took." alt="" coords="185,5,333,215"/>
+</map>

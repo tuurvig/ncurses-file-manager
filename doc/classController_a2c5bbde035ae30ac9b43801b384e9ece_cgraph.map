@@ -1,0 +1,21 @@
+<map id="Controller::Move" name="Controller::Move">
+<area shape="rect" id="node1" title="Moves node." alt="" coords="5,183,136,209"/>
+<area shape="rect" id="node2" href="$classTextBox.html#a34d3f62b8c1110bd5334dfe8e8843085" title=" " alt="" coords="203,5,342,32"/>
+<area shape="rect" id="node3" href="$classHierarchyNode.html#a9fa43c48515884b4d30ef65e961bf62f" title="Getter to a nodes name." alt="" coords="409,56,599,83"/>
+<area shape="rect" id="node4" href="$classDirectory.html#ac24637bc29a34e6ca37c586d5d1a0a63" title="Moves directory by copying and erasing directory." alt="" coords="210,107,335,133"/>
+<area shape="rect" id="node7" href="$classInfo.html#ad9248efdc533d5f895ed768f00c278ca" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="228,157,317,184"/>
+<area shape="rect" id="node12" href="$classYesNo.html#ab939b2f89282e199a1547f0c0504df19" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="221,259,324,285"/>
+<area shape="rect" id="node14" href="$classTextBox.html#a66732ea05846954af4b1ab3b36a865c2" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="215,208,331,235"/>
+<area shape="rect" id="node17" href="$classDirectory.html#a79e517722bc59d511b9ab67d73af11a8" title="Removes node from _contents." alt="" coords="184,309,361,336"/>
+<area shape="rect" id="node19" href="$classController.html#a771a3b02dcb80006eec8c15cfe469347" title="Method that resets screen when big update happens, so it won&#39;t leave residue after itself." alt="" coords="187,360,358,387"/>
+<area shape="rect" id="node5" href="$classDirectory.html#ab36586cdc9c98c50231df286e8943dd1" title="Loads the directory contents." alt="" coords="415,107,593,133"/>
+<area shape="rect" id="node6" href="$classDirectory.html#a6d60e37b3035d24a431166468385e0a4" title="Appends node into its rightful place in _contents, by using lower_bound and compare function." alt="" coords="657,107,795,133"/>
+<area shape="rect" id="node8" href="$classInfo.html#aba46dc0adf4dac1adaef7cb24cbb4034" title="Overriden inputting method." alt="" coords="460,157,548,184"/>
+<area shape="rect" id="node9" href="$classDialog.html#a015696d68dff85dcde3d6297c89b4e4c" title="Implicit method Refresh that gets terminals width and height and then calls the latter function." alt="" coords="443,208,565,235"/>
+<area shape="rect" id="node10" href="$classDialog.html#ad587c79b0126a45d14a86a5b054ec9bd" title="Overriden showing method that shows string in a dialog window." alt="" coords="451,259,557,285"/>
+<area shape="rect" id="node11" href="$classDialog.html#af31e2590c42d479701a4b1e0d4860159" title="Virtual method that shows dialogs functionaly." alt="" coords="647,259,805,285"/>
+<area shape="rect" id="node13" href="$classYesNo.html#a07ba5187c48d4b2ef14b68fd49df6ead" title="Overriden inputting method." alt="" coords="453,360,555,387"/>
+<area shape="rect" id="node15" href="$classTextBox.html#a620f9a9a2ec26d7680af57ba07abccf7" title="Overriden inputting method." alt="" coords="447,309,561,336"/>
+<area shape="rect" id="node16" href="$classTextBox.html#ad57454bef0cba58fcda7e0d9ef18fa21" title="Appends letter to input string." alt="" coords="661,309,791,336"/>
+<area shape="rect" id="node18" href="$classDirectory.html#a9c13d497ed8ad4e4d646d0b25f8272bc" title=" " alt="" coords="441,411,567,437"/>
+</map>

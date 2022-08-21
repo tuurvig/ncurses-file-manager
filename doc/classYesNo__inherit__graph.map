@@ -1,0 +1,5 @@
+<map id="YesNo" name="YesNo">
+<area shape="rect" id="node1" title="YesNo dialog, that has two buttons." alt="" coords="9,491,135,641"/>
+<area shape="rect" id="node2" href="$classDialog.html" title="Virtual class Dialog is a parent class types of Dialog windows." alt="" coords="5,263,139,443"/>
+<area shape="rect" id="node3" href="$classWindow.html" title="Virtual class for types of windows used in user interface." alt="" coords="17,5,127,215"/>
+</map>

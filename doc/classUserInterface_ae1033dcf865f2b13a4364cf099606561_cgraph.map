@@ -1,0 +1,8 @@
+<map id="UserInterface::Refresh" name="UserInterface::Refresh">
+<area shape="rect" id="node1" title="Refreshes ncurses by loading new height and width." alt="" coords="5,31,173,57"/>
+<area shape="rect" id="node2" href="$classMenu.html#a881cbd63cf5faf3107945b4c48d1c06d" title="Overriden refreshing method that updates window&#39;s height and width." alt="" coords="235,5,351,32"/>
+<area shape="rect" id="node5" href="$classController.html#a79082e9a3f0a935cfe28ae1c12679a9a" title="Virtual refreshing method that updates window&#39;s height and width." alt="" coords="221,56,365,83"/>
+<area shape="rect" id="node3" href="$classController.html#a71f305338080e450f5827da2128b2e01" title=" " alt="" coords="413,5,575,32"/>
+<area shape="rect" id="node4" href="$classHierarchyNode.html#a9fa43c48515884b4d30ef65e961bf62f" title="Getter to a nodes name." alt="" coords="623,5,812,32"/>
+<area shape="rect" id="node6" href="$classDirectory.html#aab2d2c1b6602e6620af1d7f7bd32a6f5" title=" " alt="" coords="413,56,575,83"/>
+</map>

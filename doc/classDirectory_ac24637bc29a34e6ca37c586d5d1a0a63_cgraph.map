@@ -1,0 +1,6 @@
+<map id="Directory::Move" name="Directory::Move">
+<area shape="rect" id="node1" title="Moves directory by copying and erasing directory." alt="" coords="5,31,131,57"/>
+<area shape="rect" id="node2" href="$classHierarchyNode.html#a9fa43c48515884b4d30ef65e961bf62f" title="Getter to a nodes name." alt="" coords="179,5,368,32"/>
+<area shape="rect" id="node3" href="$classDirectory.html#ab36586cdc9c98c50231df286e8943dd1" title="Loads the directory contents." alt="" coords="184,56,363,83"/>
+<area shape="rect" id="node4" href="$classDirectory.html#a6d60e37b3035d24a431166468385e0a4" title="Appends node into its rightful place in _contents, by using lower_bound and compare function." alt="" coords="416,56,555,83"/>
+</map>

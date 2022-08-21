@@ -1,0 +1,10 @@
+<map id="Controller::resetScreen" name="Controller::resetScreen">
+<area shape="rect" id="node1" title="Method that resets screen when big update happens, so it won&#39;t leave residue after itself." alt="" coords="569,87,740,114"/>
+<area shape="rect" id="node2" href="$classController.html#a19e5e9f059ba4f66b468598f781fc352" title="Iterates into a currently highlighted directory." alt="" coords="180,87,331,114"/>
+<area shape="rect" id="node3" href="$classController.html#a40eb68e7e9d5eccb89cf1a6336b6c400" title="Overriden inputting method." alt="" coords="5,36,132,63"/>
+<area shape="rect" id="node4" href="$classController.html#a4a8ce5d057ce6e2838fb4da6e09d55d1" title="Erases node from a directory." alt="" coords="385,138,515,164"/>
+<area shape="rect" id="node7" href="$classController.html#a2c5bbde035ae30ac9b43801b384e9ece" title="Moves node." alt="" coords="385,188,515,215"/>
+<area shape="rect" id="node8" href="$classController.html#a2c81342b3c17379a10a0ae7bd8d36e53" title="Iterates back into a parent directory." alt="" coords="379,36,521,63"/>
+<area shape="rect" id="node5" href="$classMenu.html#a329a36311718923920a72634d3330a7c" title="Manipulates with methods in Controller class." alt="" coords="186,163,325,190"/>
+<area shape="rect" id="node6" href="$classMenu.html#a638ef41d9d5d42ea37ee1bdf86c2d50f" title="Overriden inputting method." alt="" coords="19,163,118,190"/>
+</map>

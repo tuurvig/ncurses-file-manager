@@ -1,0 +1,36 @@
+<map id="Menu::Input" name="Menu::Input">
+<area shape="rect" id="node1" title="Overriden inputting method." alt="" coords="5,411,104,437"/>
+<area shape="rect" id="node2" href="$classMenu.html#a329a36311718923920a72634d3330a7c" title="Manipulates with methods in Controller class." alt="" coords="152,360,291,387"/>
+<area shape="rect" id="node33" href="$classMenu.html#a804da9a381bb6c633d5d2bc4f839ec62" title="Changes selection of menubar options in downward direction." alt="" coords="152,411,291,437"/>
+<area shape="rect" id="node34" href="$classMenu.html#acfb038bbd1050d6c55c86eec1f35dbdb" title="Changes selection of menubar options in upward direction." alt="" coords="161,461,281,488"/>
+<area shape="rect" id="node3" href="$classController.html#a7f49834fe6d004b07b3f58d6b791b9f0" title="Copies node." alt="" coords="349,360,476,387"/>
+<area shape="rect" id="node19" href="$classController.html#a924925fd4ca98769d4f9d69d32c40ad8" title="Creates node in a directory." alt="" coords="344,208,481,235"/>
+<area shape="rect" id="node23" href="$classController.html#a4a8ce5d057ce6e2838fb4da6e09d55d1" title="Erases node from a directory." alt="" coords="347,563,478,589"/>
+<area shape="rect" id="node28" href="$classController.html#a2c5bbde035ae30ac9b43801b384e9ece" title="Moves node." alt="" coords="347,461,478,488"/>
+<area shape="rect" id="node30" href="$classController.html#a74c7c671f984b2adaabc7fcb889c39bd" title="Renames node." alt="" coords="339,259,487,285"/>
+<area shape="rect" id="node4" href="$classDirectory.html#a4cac98248b30db0c760f9814820d61b0" title="Copies directory." alt="" coords="761,208,884,235"/>
+<area shape="rect" id="node5" href="$classHierarchyNode.html#a9fa43c48515884b4d30ef65e961bf62f" title="Getter to a nodes name." alt="" coords="933,309,1123,336"/>
+<area shape="rect" id="node8" href="$classTextBox.html#a34d3f62b8c1110bd5334dfe8e8843085" title=" " alt="" coords="554,208,693,235"/>
+<area shape="rect" id="node9" href="$classInfo.html#ad9248efdc533d5f895ed768f00c278ca" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="579,461,668,488"/>
+<area shape="rect" id="node14" href="$classYesNo.html#ab939b2f89282e199a1547f0c0504df19" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="572,512,675,539"/>
+<area shape="rect" id="node16" href="$classTextBox.html#a66732ea05846954af4b1ab3b36a865c2" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="565,259,681,285"/>
+<area shape="rect" id="node6" href="$classDirectory.html#ab36586cdc9c98c50231df286e8943dd1" title="Loads the directory contents." alt="" coords="939,233,1117,260"/>
+<area shape="rect" id="node7" href="$classDirectory.html#a6d60e37b3035d24a431166468385e0a4" title="Appends node into its rightful place in _contents, by using lower_bound and compare function." alt="" coords="1171,233,1309,260"/>
+<area shape="rect" id="node10" href="$classInfo.html#aba46dc0adf4dac1adaef7cb24cbb4034" title="Overriden inputting method." alt="" coords="779,411,867,437"/>
+<area shape="rect" id="node11" href="$classDialog.html#a015696d68dff85dcde3d6297c89b4e4c" title="Implicit method Refresh that gets terminals width and height and then calls the latter function." alt="" coords="761,512,884,539"/>
+<area shape="rect" id="node12" href="$classDialog.html#ad587c79b0126a45d14a86a5b054ec9bd" title="Overriden showing method that shows string in a dialog window." alt="" coords="769,461,876,488"/>
+<area shape="rect" id="node13" href="$classDialog.html#af31e2590c42d479701a4b1e0d4860159" title="Virtual method that shows dialogs functionaly." alt="" coords="949,461,1107,488"/>
+<area shape="rect" id="node15" href="$classYesNo.html#a07ba5187c48d4b2ef14b68fd49df6ead" title="Overriden inputting method." alt="" coords="771,563,874,589"/>
+<area shape="rect" id="node17" href="$classTextBox.html#a620f9a9a2ec26d7680af57ba07abccf7" title="Overriden inputting method." alt="" coords="765,157,880,184"/>
+<area shape="rect" id="node18" href="$classTextBox.html#ad57454bef0cba58fcda7e0d9ef18fa21" title="Appends letter to input string." alt="" coords="963,157,1093,184"/>
+<area shape="rect" id="node20" href="$classDirectory.html#a35a3bb6b652a746891d5d24acf176827" title="Creates new directory." alt="" coords="548,107,699,133"/>
+<area shape="rect" id="node21" href="$classDirectory.html#a7e179b9ff592470afa9625cd7476cb5d" title="Creates new file." alt="" coords="546,5,701,32"/>
+<area shape="rect" id="node22" href="$classDirectory.html#a24f138fafe93eadcd8b986c98b76544f" title="Creates new symbolic link." alt="" coords="544,56,703,83"/>
+<area shape="rect" id="node24" href="$classDirectory.html#a11596fa5d7f432d3797e1f5b720568b9" title="Erases directory." alt="" coords="760,715,885,741"/>
+<area shape="rect" id="node25" href="$classDirectory.html#a79e517722bc59d511b9ab67d73af11a8" title="Removes node from _contents." alt="" coords="535,664,712,691"/>
+<area shape="rect" id="node27" href="$classController.html#a771a3b02dcb80006eec8c15cfe469347" title="Method that resets screen when big update happens, so it won&#39;t leave residue after itself." alt="" coords="538,613,709,640"/>
+<area shape="rect" id="node26" href="$classDirectory.html#a9c13d497ed8ad4e4d646d0b25f8272bc" title=" " alt="" coords="760,664,885,691"/>
+<area shape="rect" id="node29" href="$classDirectory.html#ac24637bc29a34e6ca37c586d5d1a0a63" title="Moves directory by copying and erasing directory." alt="" coords="760,309,885,336"/>
+<area shape="rect" id="node31" href="$classDirectory.html#a1b2eb4512e383656fdbe078d3a8dddf4" title="Renames directory." alt="" coords="552,157,695,184"/>
+<area shape="rect" id="node32" href="$classDirectory.html#a95948959f5bcca3448ee68900e5811a3" title="Get path of a directory." alt="" coords="764,56,881,83"/>
+</map>

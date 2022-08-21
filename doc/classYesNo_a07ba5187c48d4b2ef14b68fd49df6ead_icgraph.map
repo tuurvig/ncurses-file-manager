@@ -1,0 +1,9 @@
+<map id="YesNo::Input" name="YesNo::Input">
+<area shape="rect" id="node1" title="Overriden inputting method." alt="" coords="668,56,771,83"/>
+<area shape="rect" id="node2" href="$classYesNo.html#ab939b2f89282e199a1547f0c0504df19" title="Overriden method that opens Dialog a waits in infinite loop until the action of a dialog windows is f..." alt="" coords="517,56,620,83"/>
+<area shape="rect" id="node3" href="$classController.html#a7f49834fe6d004b07b3f58d6b791b9f0" title="Copies node." alt="" coords="341,5,467,32"/>
+<area shape="rect" id="node6" href="$classController.html#a4a8ce5d057ce6e2838fb4da6e09d55d1" title="Erases node from a directory." alt="" coords="339,56,469,83"/>
+<area shape="rect" id="node7" href="$classController.html#a2c5bbde035ae30ac9b43801b384e9ece" title="Moves node." alt="" coords="339,107,469,133"/>
+<area shape="rect" id="node4" href="$classMenu.html#a329a36311718923920a72634d3330a7c" title="Manipulates with methods in Controller class." alt="" coords="152,56,291,83"/>
+<area shape="rect" id="node5" href="$classMenu.html#a638ef41d9d5d42ea37ee1bdf86c2d50f" title="Overriden inputting method." alt="" coords="5,56,104,83"/>
+</map>

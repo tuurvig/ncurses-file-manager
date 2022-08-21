@@ -1,0 +1,17 @@
+<map id="src/UI/Dialog/Dialog.hpp" name="src/UI/Dialog/Dialog.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="417,5,595,32"/>
+<area shape="rect" id="node2" href="$Info_8hpp.html" title=" " alt="" coords="522,80,685,107"/>
+<area shape="rect" id="node11" href="$TextBox_8hpp.html" title=" " alt="" coords="109,80,298,107"/>
+<area shape="rect" id="node13" href="$YesNo_8hpp.html" title=" " alt="" coords="322,80,498,107"/>
+<area shape="rect" id="node15" href="$Dialog_8cpp.html" title=" " alt="" coords="709,80,887,107"/>
+<area shape="rect" id="node3" href="$Controller_8hpp.html" title=" " alt="" coords="234,155,389,181"/>
+<area shape="rect" id="node10" href="$Info_8cpp.html" title=" " alt="" coords="612,155,773,181"/>
+<area shape="rect" id="node4" href="$Menu_8hpp.html" title=" " alt="" coords="165,229,292,256"/>
+<area shape="rect" id="node9" href="$Controller_8cpp.html" title=" " alt="" coords="316,229,469,256"/>
+<area shape="rect" id="node5" href="$UserInterface_8hpp.html" title=" " alt="" coords="51,304,230,331"/>
+<area shape="rect" id="node8" href="$Menu_8cpp.html" title=" " alt="" coords="255,304,381,331"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title=" " alt="" coords="5,379,111,405"/>
+<area shape="rect" id="node7" href="$UserInterface_8cpp.html" title=" " alt="" coords="135,379,314,405"/>
+<area shape="rect" id="node12" href="$TextBox_8cpp.html" title=" " alt="" coords="21,155,209,181"/>
+<area shape="rect" id="node14" href="$YesNo_8cpp.html" title=" " alt="" coords="413,155,588,181"/>
+</map>

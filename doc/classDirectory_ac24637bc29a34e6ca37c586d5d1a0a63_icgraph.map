@@ -1,0 +1,8 @@
+<map id="Directory::Move" name="Directory::Move">
+<area shape="rect" id="node1" title="Moves directory by copying and erasing directory." alt="" coords="725,31,851,57"/>
+<area shape="rect" id="node2" href="$classController.html#a2c5bbde035ae30ac9b43801b384e9ece" title="Moves node." alt="" coords="347,5,478,32"/>
+<area shape="rect" id="node5" href="$classDirectory.html#a1b2eb4512e383656fdbe078d3a8dddf4" title="Renames directory." alt="" coords="535,56,677,83"/>
+<area shape="rect" id="node3" href="$classMenu.html#a329a36311718923920a72634d3330a7c" title="Manipulates with methods in Controller class." alt="" coords="152,31,291,57"/>
+<area shape="rect" id="node4" href="$classMenu.html#a638ef41d9d5d42ea37ee1bdf86c2d50f" title="Overriden inputting method." alt="" coords="5,31,104,57"/>
+<area shape="rect" id="node6" href="$classController.html#a74c7c671f984b2adaabc7fcb889c39bd" title="Renames node." alt="" coords="339,56,487,83"/>
+</map>
